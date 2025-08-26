@@ -3,3 +3,5 @@ This is a critical message that i am going to ammend into the previous something
 Commit #2 during squas h activity
 
 Commit #3 during squas h activity
+
+Commit #4 during squas h activity
